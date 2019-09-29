@@ -4,16 +4,18 @@ To submit a proposal, please create a PR against this template in this repo. Ple
 
 **Name of Project:**
 
-**Link to RFP:** Please link to the RFP that you are submitting a proposal for.
+**Link to RFP:** https://github.com/filecoin-project/devgrants/blob/master/rfps/rfp-reputation-system.md
 
 **RFP Category:**  `app-dev`
 
-**Proposer:** `replace with your GitHub username`
+**Proposer:** [@plotozhu](https://github.com/plotozhu)
 
-**Do you agree to open source all work you do on behalf of this RFP and dual-license under MIT and APACHE2 licenses?:** Please respond with either "Yes" or "No"
+**Do you agree to open source all work you do on behalf of this RFP and dual-license under MIT and APACHE2 licenses?:**
+"YES"
 
 # Project Description
 
+According to retrieval market, retrieval miner should retrieve chunks for its cache or storage miner and transfer them to 
 Please describe exactly what you are planning to build. Since this is a response to an RFP, make sure to address the request directly. If the RFP asked for new ideas, please describe those novel ideas. If the RFP provided a clear scope of work, please make sure to acknowledge that you will be addressing that scope of work with this project.
 
 This section should be 2-3 paragraphs long.
